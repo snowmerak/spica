@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-03T17:28:59.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tqz13qziYy_6u---q-Sy" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-03T17:32:10.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="YO8YeGAN8Jsdoa0xU5ix" version="24.2.5" type="device">
   <diagram name="페이지-1" id="B5-qI4YDsCoRqFEUdCwZ">
     <mxGraphModel dx="994" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,8 +42,9 @@
             <mxPoint x="944.5" y="687.7106781186548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a-zm8EkVUqHYpX8J8bkr-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-zm8EkVUqHYpX8J8bkr-78" target="a-zm8EkVUqHYpX8J8bkr-42">
+        <mxCell id="a-zm8EkVUqHYpX8J8bkr-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="a-zm8EkVUqHYpX8J8bkr-42">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="310" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="285" y="240" />
               <mxPoint x="670" y="240" />
@@ -299,7 +300,7 @@
           <mxGeometry x="250" y="430" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="a-zm8EkVUqHYpX8J8bkr-78" value="Prepared Image" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="250" y="310" width="69" height="64" as="geometry" />
+          <mxGeometry x="250" y="295" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="a-zm8EkVUqHYpX8J8bkr-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.043;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-zm8EkVUqHYpX8J8bkr-1" target="a-zm8EkVUqHYpX8J8bkr-74">
           <mxGeometry relative="1" as="geometry">
