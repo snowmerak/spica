@@ -1,6 +1,6 @@
 # Spica
 
-`spica` is a simple and lightweight architecture for GitOps.
+`spica` is a simple and lightweight architecture for DevOps.
 
 ## Blueprint
 
